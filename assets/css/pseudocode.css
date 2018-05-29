@@ -1,0 +1,19 @@
+body {
+
+}
+
+.jumbotron {
+    background: blue;
+    text-align: center;
+    color: black;
+    font-family: 'Lobster', cursive;
+}
+
+
+footer {
+    padding-top: 90px;
+}
+
+i {
+    color: #d6cbc5;
+}
